@@ -1,5 +1,7 @@
 # Jaguar-Fastdemux 🐆
 
+<img width="723" height="345" alt="image-removebg-preview (16)" src="https://github.com/user-attachments/assets/95ff6651-7c3d-4822-993d-c72d865c5a94" />
+
 **A streamlined workflow for donor assignment in pooled scATAC-seq experiments.**
 
 This pipeline optimizes computational efficiency by intersecting SNPs with accessible chromatin regions (peaks) and standardizing chromosome ordering between BAM and VCF files, ensuring seamless processing with demultiplexing tools such as **FASTDEMUX**.
